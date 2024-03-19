@@ -1,0 +1,29 @@
+University: 
+      Departments
+           Faculty
+                 Professors
+                      Assistant Professors
+                      Associate Professors
+                      Full Professors
+                      Visiting Professors
+                 Lecturers
+                 PostDocs
+           Students
+                 Undergraduate Students
+                 Graduate Students
+           Courses
+           Research
+                 Research Groups
+                 Research Interests
+                 Research Projects
+           Publications
+                 Authors
+                 Publication Dates
+                 Publishers
+           Degrees
+                 Doctoral Degrees
+                 Masters Degrees
+           Miscellaneous
+                 Email Addresses
+                 Names
+                 Research Interests
